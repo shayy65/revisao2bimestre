@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\Revisão\Revisão\bin\Debug\Revisão.exe.config
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\Revisão\Revisão\bin\Debug\Revisão.exe
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\Revisão\Revisão\bin\Debug\Revisão.pdb
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\Revisão\Revisão\obj\Debug\Revisão.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\Revisão\Revisão\obj\Debug\Revisão.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\Revisão\Revisão\obj\Debug\Revisão.Menu.resources
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\Revisão\Revisão\obj\Debug\Revisão.Properties.Resources.resources
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\Revisão\Revisão\obj\Debug\Revisão.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\Revisão\Revisão\obj\Debug\Revisão.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\Revisão\Revisão\obj\Debug\Revisão.exe
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\Revisão\Revisão\obj\Debug\Revisão.pdb
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\Revisão\Revisão\obj\Debug\Revisão.Divisao.resources
